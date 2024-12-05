@@ -1,5 +1,5 @@
 version: "1"
 rules:
-  - base: master
-    upstream: cmliu/edgetunnel:main # change `wei` to the owner of upstream repo
+  - base: maim
+    upstream: cmliu/edgetunnel:main
     mergeMethod: hardreset
